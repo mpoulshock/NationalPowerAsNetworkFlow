@@ -1,0 +1,7 @@
+Sheet,Field,Units,Source,StartYear,EndYear,Source field name,Download date,URL,Curation notes
+Countries,Name,,World Inequality Database,1995,2020,,9/23/2021,,
+CountryYears,National Wealth,USD 2020,World Inequality Database,1995,2020,,9/23/2021,,Venezuela omitted because wealth seems much too high
+CountryYears,Military Expenditure,USD 2020,SIPRI Military Expenditure Dataset,1995,2020,,9/4/2021,,Converted from current USD to USD 2020
+Goods Imports,Value of goods imported,Current USD,IMF Direction of Trade Statistics (DOTS),1995,2020,"Goods, Value of Imports, Cost, Insurance, Freight (CIF) (TMG_CIF_USD)",10/2/2021,,
+Services Exports A,Value of services exported,Current USD (Millions),World Trade Organization / OECD BATIS Database,1999,2012,"Total trade in services (S200), Balanced Value",10/5/2021,,Matrix is not symmetrical
+Services Exports B,Value of services exported,Current USD (Millions),World Trade Organization,2013,2020,"Commercial services exports by sector and partner – annual, BOP6 - S - Memo item: Total services",10/5/2021,,Matrix is not symmetrical
